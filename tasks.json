@@ -7,17 +7,31 @@
     "due": null
   },
   {
-    "id": 4,
-    "title": "Water the plants",
-    "status": "todo",
-    "priority": "low",
-    "due": null
-  },
-  {
     "id": 5,
     "title": "Pay electricity bill",
     "status": "todo",
     "priority": "medium",
     "due": "2026-09-01"
+  },
+  {
+    "id": 6,
+    "title": "Workout",
+    "status": "todo",
+    "priority": "high",
+    "due": null
+  },
+  {
+    "id": 8,
+    "title": "Clean my room",
+    "status": "todo",
+    "priority": "medium",
+    "due": "2026-11-23"
+  },
+  {
+    "id": 9,
+    "title": "Check on my plant",
+    "status": "todo",
+    "priority": "medium",
+    "due": "2026-11-23"
   }
 ]
